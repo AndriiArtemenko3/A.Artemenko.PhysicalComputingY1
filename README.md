@@ -1,1 +1,0 @@
-# A.Artemenko.PhysicalComputingY1
